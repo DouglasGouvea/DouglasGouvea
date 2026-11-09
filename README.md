@@ -3,6 +3,7 @@
 I build small, useful AI tools: MCP servers, Claude integrations and automations.
 
 **Projects**
+- [Errand Code](https://errandcode.com): AI visibility, market research, Brazilian company data and public records.
 - [geo-visibility-cli](https://github.com/DouglasGouvea/geo-visibility-cli): does AI cite your local business? Open-source CLI + GitHub Action ([PyPI](https://pypi.org/project/geo-visibility-cli/))
 - [GEO Visibility Check](https://geo-visibility-check.vercel.app): free checker for AI visibility
 - MCP servers: [Empresas BR](https://github.com/DouglasGouvea/mcp-empresas-br-docs) (CNPJ due diligence), [Licitações BR](https://github.com/DouglasGouvea/mcp-licitacoes-br-docs) (public procurement), [EU VAT & Peppol](https://github.com/DouglasGouvea/mcp-peppol-docs)
